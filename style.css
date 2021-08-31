@@ -1,0 +1,20 @@
+:root {
+    --blue: #2980b9;
+    --lightblue: #3498db;
+    --light: #ecf0f1;
+    --darkblue: #2c3e50;
+    --red: #e74c3c;
+  }
+  
+  .header{
+      background-color: var(--lightblue);
+      font-size: large;
+      font-weight: bold;
+  }
+  #search-button{
+      padding-top: 20px;
+      margin-top: 15px;
+  }
+  .leftinfo{
+      border-bottom: #e74c3c;
+  }
