@@ -14,4 +14,4 @@ Screenshots
 
 The following image shows the weather dashboard appearance and functionality:
 
-/Users/dahirabdi/Homework/Weather-Dashboard/Screen Shot 2021-11-25 at 11.55.21 AM.png
+![Weather-Dashboard](./Weather-Dashboard/Screen Shot 2021-11-25 at 11.55.21 AM.png)
