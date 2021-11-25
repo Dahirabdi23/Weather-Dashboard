@@ -10,8 +10,5 @@ AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
-Screenshots
 
-The following image shows the weather dashboard appearance and functionality:
 
-![Weather-Dashboard](/Weather-Dashboard/Screen Shot 2021-11-25 at 11.55.21 AM.png)
